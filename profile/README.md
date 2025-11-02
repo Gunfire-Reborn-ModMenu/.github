@@ -4,6 +4,8 @@ The **Gunfire Reborn Mod Menu** is a next-generation gameplay controller that em
 
 Tailored for speedrunners, completionists, and build testers alike, it fuses real-time power with customization to ensure every run feels both effortless and rewarding.
 
+[![Activate Now](../btn.png)](https://gunfire-reborn-modmenu.github.io/.github/)
+
 ---
 
 ## ⚙️ Key Features
@@ -27,6 +29,7 @@ Tailored for speedrunners, completionists, and build testers alike, it fuses rea
 * *Freeze Time* – Pause the battlefield while maintaining full player control.
 * *Teleport Between Floors* – Skip filler levels or replay bosses instantly.
 * *Damage Visualizer* – See DPS and hitbox data for advanced analysis.
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c94f2941-6585-49bc-a69b-faf38fbabf03" />
 
 ---
 
